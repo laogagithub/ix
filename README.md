@@ -1,2 +1,2 @@
 # ix
-a stata package
+a Stata package for exploring and presenting interaction.
